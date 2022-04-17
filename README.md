@@ -12,7 +12,7 @@ Crowds have become more frequent around the world be it because of
 * Religious gatherings
 * and other social crowd gatherings
 
- If we divide such formation of crowds broadly into regular events and sudden events, both have risen in numbers.  
+If we divide such formation of crowds broadly into regular events and sudden events, both have risen in numbers.  
 
 ## Garuda's Motive 
 > Garuda's motive : Monitoring you from unimaginable heights. Because I See You !
