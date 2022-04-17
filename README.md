@@ -19,7 +19,7 @@ Crowds have become more frequent around the world be it because of
 Garuda, in Hindu mythology, the bird (a kite or an eagle) and the vahana (mount) of the god Vishnu.
 From the ancient history, birds have been considered the eyes of the sky and so is our Garuda Drone. Garuda is responsible for monitoring in the regions which usually faces gathering of people in huge masses. Monitoring takes place with the help of a camera module which is assembled at the lower portion of the drone to cover more area as compared to the cctv camera's whose line of sight is minimised because of their static position. 
 
-Garuda as ideated by team pi will be deployed by concerned organising authorities where it will be controlled by a skilled individual. The camera module which currently works on wifi will be able to give realtime monitoring.  
+Garuda as ideated by team pi will be deployed by concerned organising authorities where it will be controlled by a skilled individual. The camera module which currently works on wifi will be able to give Realtime Monitoring.  
 
 ## Garuda - Working?
 Garuda's monitoring/analysis primarily works on the computer vision technique via ESP32 camera module.
