@@ -19,7 +19,7 @@ If we divide such formation of crowds broadly into regular events and sudden eve
 
 ## Garuda's Motive 
 
-<img align=right src="https://github.com/Curovearth/Garuda-LaHacks/blob/main/gif's/close-video.gif" width="450"/>
+<img align=right src="https://github.com/Curovearth/Garuda-LaHacks/blob/main/gif's/close-video.gif" width="400"/>
 
 > **Garuda's motive** : 
 > Monitoring you from unimaginable heights. Because, I See You!
