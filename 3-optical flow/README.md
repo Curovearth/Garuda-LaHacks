@@ -21,3 +21,9 @@
     frame=cv2.imdecode(imgNp,-1)
     print(frame)
     ```
+
+## Output Videos
+| <img src="https://github.com/Curovearth/Garuda-LaHacks/blob/main/gif's/code1.gif" align=center width=600> |
+| --- |
+| <img src="https://github.com/Curovearth/Garuda-LaHacks/blob/main/gif's/code2.gif" align=center width=600> |
+| <img src="https://github.com/Curovearth/Garuda-LaHacks/blob/main/gif's/code3.gif" align=center width=600> |
