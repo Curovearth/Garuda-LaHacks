@@ -1,4 +1,8 @@
-# GARUDA
+<h1 align=center>GARUDA</h1>
+
+<div align=center>
+    <img src="https://img.shields.io/github/forks/Curovearth/Garuda-LaHacks?style=social">  <img src="https://img.shields.io/badge/Garuda-V1-green">  <img src="https://img.shields.io/github/stars/Curovearth/Garuda-LaHacks?style=social">
+</div>
 
 <img align=right src="https://github.com/Curovearth/Garuda-LaHacks/blob/main/imgs/crowd.png" width="230"/>
 
@@ -19,7 +23,7 @@ If we divide such formation of crowds broadly into regular events and sudden eve
 
 ## Garuda's Motive 
 
-<img align=right src="https://github.com/Curovearth/Garuda-LaHacks/blob/main/gif's/close-video.gif" width="400"/>
+<img align=right src="https://github.com/Curovearth/Garuda-LaHacks/blob/main/gif's/close-video.gif" width="350"/>
 
 > **Garuda's motive** : 
 > Monitoring you from unimaginable heights. Because, I See You!
