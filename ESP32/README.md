@@ -7,7 +7,7 @@
         
   
 <br>
-<img width=500 align=center src="https://user-images.githubusercontent.com/72257400/164312649-0c0b4598-1bf5-47fb-9d7d-f960b5723b63.png"/>
+<img width=500 align=center src="https://raw.githubusercontent.com/Curovearth/Garuda-LaHacks/main/ESP32/esp32cam.png"/>
 <div>
      <p> 
        There are three GND pins and two pins for power: either 3.3V or 5V.
