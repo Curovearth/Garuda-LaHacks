@@ -20,10 +20,10 @@ Hailing from a country which consitutes 17.7% of the total world's population, a
 
 ## So, What problems do we usually face with Crowd?
 Crowds have become more frequent around the world be it because of 
-* uncontrollable rise in population
+* Uncontrollable rise in population
 * Festive gatherings
 * Religious gatherings
-* and other social crowd gatherings
+* Other social crowd gatherings
 
 If we divide such formation of crowds broadly into regular events and sudden events, both have risen in numbers.  
 
@@ -93,9 +93,9 @@ We learned throughout the process, made mistakes but spent each hour rectifying 
 2. Fork it and make a valid pull request. 
 3. To look for more projects head over to the contributors profile:
 
-| <img src="https://avatars.githubusercontent.com/u/71594140?s=100&v=4" align=center width=70> | <img src="https://avatars.githubusercontent.com/u/64013307?v=4" align=center width=70> | <img src="https://avatars.githubusercontent.com/u/72257400?s=100&v=4" align=center width=70> | <img src="https://avatars.githubusercontent.com/u/70833069?s=100&v=4" align=center width=70> |
-| --- | --- | --- | --- | 
-| <a href="https://github.com/anvit1618">@Anvit Agarwal</a> | <a href="https://github.com/Curovearth">@Swarup Tripathy</a> | <a href="https://github.com/yatharthagr7">@Yatharth Agarwal</a> | <a href="https://github.com/Zayd1602">@Mohammad Zayd</a> |
+| <img src="https://avatars.githubusercontent.com/u/71594140?s=100&v=4" align=center width=70> | <img src="https://avatars.githubusercontent.com/u/64013307?v=4" align=center width=70> | <img src="https://avatars.githubusercontent.com/u/72257400?s=100&v=4" align=center width=70> | <img src="https://avatars.githubusercontent.com/u/70833069?s=100&v=4" align=center width=70> |  <img src="https://avatars.githubusercontent.com/u/64500580?v=4" align=center width=70> |
+| --- | --- | --- | --- | --- |
+| <a href="https://github.com/anvit1618">@Anvit Agarwal</a> | <a href="https://github.com/Curovearth">@Swarup Tripathy</a> | <a href="https://github.com/yatharthagr7">@Yatharth Agarwal</a> | <a href="https://github.com/Zayd1602">@Mohammad Zayd</a> | <a href="https://github.com/shubhamppl">@Shubham Chauhan</a> |
 
 4. If you like the project do give it a ⭐
 5. Want to have discussion, feel free to hmu @ <a href="https://discord.com/channels/718336604887973939"><img src="https://img.shields.io/badge/Discord-7289DA?style=plastic&logo=discord&logoColor=white"></a>
